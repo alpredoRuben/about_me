@@ -2,7 +2,7 @@ import React from "react";
 
 function About(props) {
   const profilepic = "images/" + props.data.image;
-  const { name, marital, phone, email, resumedownload, address } = props.data;
+  const { name, marital, phone, email, address } = props.data;
 
   return (
     <section id="about">
