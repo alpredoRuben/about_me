@@ -7,9 +7,7 @@ import {
   Header,
   Footer,
   About,
-  //Resume,
   Services,
-  //Contact,
   Portofolio,
 } from './components'
 
